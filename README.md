@@ -55,19 +55,6 @@ Unlike many developers who focus strictly on syntax, my background in Management
 
 ---
 
-### 📊 The Data
-
-<div align="center">
-  <a href="https://github.com/MahmoudAbdelbaki">
-    <img src="https://github-readme-stats.vercel.app/api?username=MahmoudAbdelbaki&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/MahmoudAbdelbaki">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudAbdelbaki&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-  </a>
-</div>
-
----
-
 ### 🤝 Let's Connect
 
 <div align="center">
