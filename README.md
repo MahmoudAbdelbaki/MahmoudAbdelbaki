@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2F80ED&height=250&section=header&text=Mahmoud%20Abdelbaky&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Backend%20Engineer%20%7C%20MIS%20Graduate&descAlignY=55&descAlign=50&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1B1F23&height=250&section=header&text=Mahmoud%20Abdelbaky&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Backend%20Engineer%20%7C%20MIS%20Graduate&descAlignY=55&descAlign=50&fontColor=ffffff" />
 </div>
 
 <div align="center">
-  <em>Backend Engineer (Node.js/Express) | Architecting Scalable APIs & Secure Database Systems | Docker & Kubernetes</em>
+  <em>Architecting Scalable APIs & Secure Database Systems | AWS, Docker & Kubernetes</em>
 </div>
 
 ---
@@ -22,6 +22,7 @@ Unlike many developers who focus strictly on syntax, my background in Management
 ### ⚙️ What I Bring to the Table
 
 *   **Reliable Server-Side Architecture:** I specialize in building robust monolithic backends using Node.js and Express. I focus on writing clean, maintainable code that handles business logic efficiently and scales effectively as your user base grows.
+*   **Cloud & Event-Driven Architecture:** I design scalable, cloud-native infrastructures using **AWS** (including EC2, S3, SQS, and Lambda) to build decoupled, asynchronous backend services. I am also actively preparing for the **AWS Certified Solutions Architect (SAA-C03)** exam.
 *   **Secure & Scalable Data Management:** Using MongoDB (Mongoose) and SQL, I design schemas that prioritize data integrity and security. I am proficient in implementing secure authentication flows, including OAuth, password hashing, and role-based authorization (Admin Auth).
 *   **Modern Infrastructure:** I believe in environment consistency. I use Docker and Kubernetes to containerize applications, ensuring that the system runs perfectly from development to production.
 *   **Values-Driven Collaboration:** Guided by core values of Honesty, Fairness, and Prudence, I prioritize clear communication and ethical decision-making. I don't just build software; I build trust within teams and with stakeholders.
@@ -38,6 +39,14 @@ Unlike many developers who focus strictly on syntax, my background in Management
 <img src="https://img.shields.io/badge/Node.js-333333?style=for-the-badge&logo=node.js&logoColor=43853D" alt="Node.js" />
 <img src="https://img.shields.io/badge/Express.js-333333?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
 <img src="https://img.shields.io/badge/RESTful_APIs-333333?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="REST" />
+
+**Cloud & AWS Services**
+<br/>
+<img src="https://img.shields.io/badge/AWS-333333?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" alt="AWS" />
+<img src="https://img.shields.io/badge/Amazon_EC2-333333?style=for-the-badge&logo=amazon-ec2&logoColor=FF9900" alt="EC2" />
+<img src="https://img.shields.io/badge/Amazon_SQS-333333?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" alt="SQS" />
+<img src="https://img.shields.io/badge/Amazon_S3-333333?style=for-the-badge&logo=amazon-s3&logoColor=569A31" alt="S3" />
+<img src="https://img.shields.io/badge/AWS_Lambda-333333?style=for-the-badge&logo=aws-lambda&logoColor=FF9900" alt="Lambda" />
 
 **Database & Security**
 <br/>
