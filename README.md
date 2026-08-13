@@ -1,72 +1,108 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1B1F23&height=250&section=header&text=Mahmoud%20Abdelbaky&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Backend%20Engineer%20%7C%20MIS%20Graduate&descAlignY=55&descAlign=50&fontColor=ffffff" />
+div align="center">
+  <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=waving&color=1B1F23&height=200&section=header&text=Mahmoud%20Abdelbaky&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Backend%20Engineer%20%7C%20MIS%20Graduate&descAlignY=55&descAlign=50&fontColor=ffffff" />
 </div>
+
+<br>
 
 <div align="center">
   <em>Architecting Scalable APIs & Secure Database Systems | AWS, Docker & Kubernetes</em>
 </div>
 
----
+<br>
 
-### 🚀 The Journey & The MIS Advantage
+## 👨‍💻 About Me
 
-My journey into technology started at age 11 with a simple goal: building my own gaming PC. That hands-on experience gave me a deep respect for how hardware and software must work in harmony. It taught me that performance isn't just a feature—it’s the foundation.
+<p align="left">
+  <b>The Journey & The MIS Advantage</b><br>
+  My journey into technology started at age 11 with a simple goal: building my own gaming PC. That hands-on experience gave me a deep respect for how hardware and software must work in harmony. Unlike many developers who focus strictly on syntax, my background in <b>Management Information Systems (MIS)</b> gives me a unique "Enterprising" edge. I view every API I build through the lens of business logic, ensuring that technical solutions drive real-world ROI and user retention.<br><br>
+  <i>> "I am an entry-level engineer with a senior-level mindset, ready to build stable, secure, and business-aligned solutions for dynamic organizations."</i><br><br>
+  <b>What I Bring to the Table:</b><br>
+  <li> <b>Reliable Server-Side Architecture:</b> Specializing in building robust monolithic backends using Node.js and Express.
+  <li> <b>Cloud & Event-Driven Architecture:</b> Designing scalable infrastructures using AWS (EC2, S3, SQS, Lambda).
+  <li> <b>Secure & Scalable Data Management:</b> Designing schemas with MongoDB and SQL, implementing secure Auth.
+  <li> <b>Modern Infrastructure:</b> Using Docker and Kubernetes for containerization and environment consistency.
+  <li> <b>Values-Driven Collaboration:</b> Prioritizing clear communication, Honesty, Fairness, and Prudence.
+</p>
 
-**The Intersection of Business & Code** 
-Unlike many developers who focus strictly on syntax, my background in Management Information Systems (MIS) gives me a unique "Enterprising" edge. I understand that a backend isn't just a collection of functions; it’s the engine of a business. I view every API I build through the lens of business logic, ensuring that technical solutions drive real-world ROI and user retention. 
+<br>
 
-> *I am an entry-level engineer with a senior-level mindset, ready to build stable, secure, and business-aligned solutions for dynamic organizations.*
+## 📫 Connect With Me
 
----
+<div align="center">
+  <a href="https://www.linkedin.com/in/mahmoud-abdelbaky-2ab528243/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:mahmoud.abdelbaky002@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"  />
+  </a>
+</div>
 
-### ⚙️ What I Bring to the Table
+<br>
 
-*   **Reliable Server-Side Architecture:** I specialize in building robust monolithic backends using Node.js and Express. I focus on writing clean, maintainable code that handles business logic efficiently and scales effectively as your user base grows.
-*   **Cloud & Event-Driven Architecture:** I design scalable, cloud-native infrastructures using **AWS** (including EC2, S3, SQS, and Lambda) to build decoupled, asynchronous backend services. I am also actively preparing for the **AWS Certified Solutions Architect (SAA-C03)** exam.
-*   **Secure & Scalable Data Management:** Using MongoDB (Mongoose) and SQL, I design schemas that prioritize data integrity and security. I am proficient in implementing secure authentication flows, including OAuth, password hashing, and role-based authorization (Admin Auth).
-*   **Modern Infrastructure:** I believe in environment consistency. I use Docker and Kubernetes to containerize applications, ensuring that the system runs perfectly from development to production.
-*   **Values-Driven Collaboration:** Guided by core values of Honesty, Fairness, and Prudence, I prioritize clear communication and ethical decision-making. I don't just build software; I build trust within teams and with stakeholders.
-
----
-
-### ⚡ Technical Arsenal
+## 📊 GitHub Activity
 
 <div align="center">
 
-**Core & Architecture**
-<br/>
-<img src="https://img.shields.io/badge/JavaScript-333333?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-<img src="https://img.shields.io/badge/Node.js-333333?style=for-the-badge&logo=node.js&logoColor=43853D" alt="Node.js" />
-<img src="https://img.shields.io/badge/Express.js-333333?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-<img src="https://img.shields.io/badge/RESTful_APIs-333333?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="REST" />
-
-**Cloud & AWS Services**
-<br/>
-<img src="https://img.shields.io/badge/AWS-333333?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" alt="AWS" />
-<img src="https://img.shields.io/badge/Amazon_EC2-333333?style=for-the-badge&logo=amazon-ec2&logoColor=FF9900" alt="EC2" />
-<img src="https://img.shields.io/badge/Amazon_SQS-333333?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" alt="SQS" />
-<img src="https://img.shields.io/badge/Amazon_S3-333333?style=for-the-badge&logo=amazon-s3&logoColor=569A31" alt="S3" />
-<img src="https://img.shields.io/badge/AWS_Lambda-333333?style=for-the-badge&logo=aws-lambda&logoColor=FF9900" alt="Lambda" />
-
-**Database & Security**
-<br/>
-<img src="https://img.shields.io/badge/MongoDB-333333?style=for-the-badge&logo=mongodb&logoColor=4EA94B" alt="MongoDB" />
-<img src="https://img.shields.io/badge/SQL-333333?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="SQL" />
-<img src="https://img.shields.io/badge/OAuth_&_Auth-333333?style=for-the-badge&logo=auth0&logoColor=EB5424" alt="Auth" />
-
-**Infrastructure & Version Control**
-<br/>
-<img src="https://img.shields.io/badge/Docker-333333?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
-<img src="https://img.shields.io/badge/Kubernetes-333333?style=for-the-badge&logo=kubernetes&logoColor=326CE5" alt="Kubernetes" />
-<img src="https://img.shields.io/badge/Git_&_GitHub-333333?style=for-the-badge&logo=github&logoColor=white" alt="Git" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MahmoudAbdelbaki/MahmoudAbdelbaki/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MahmoudAbdelbaki/MahmoudAbdelbaki/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MahmoudAbdelbaki/MahmoudAbdelbaki/output/pacman-contribution-graph.svg">
+</picture>
 
 </div>
 
----
+<br>
 
-### 🤝 Let's Connect
+## 🛠️ Tech Stack
 
 <div align="center">
-  <a href="mailto:mahmoud.abdelbaky002@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/mahmoud-abdelbaky-2ab528243/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  </a>
+  <img width="12" />
+  <a href="https://nodejs.org/docs/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  </a>
+  <img width="12" />
+  <a href="https://expressjs.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+  </a>
+  <img width="12" />
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo"  />
+  </a>
+  <img width="12" />
+  <a href="https://www.mongodb.com/docs/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  </a>
+  <img width="12" />
+  <a href="https://www.postgresql.org/docs/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  </a>
+  <img width="12" />
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  </a>
+  <img width="12" />
+  <a href="https://kubernetes.io/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo"  />
+  </a>
+  <img width="12" />
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  </a>
+  <img width="12" />
+  <a href="https://github.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  </a>
+  <img width="12" />
+  <a href="https://learning.postman.com/docs/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=1B1F23" />
 </div>
