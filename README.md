@@ -1,4 +1,4 @@
-div align="center">
+<div align="center">
   <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=waving&color=1B1F23&height=200&section=header&text=Mahmoud%20Abdelbaky&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Backend%20Engineer%20%7C%20MIS%20Graduate&descAlignY=55&descAlign=50&fontColor=ffffff" />
 </div>
 
@@ -60,12 +60,20 @@ div align="center">
     <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   </a>
   <img width="12" />
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  </a>
+  <img width="12" />
   <a href="https://nodejs.org/docs/" target="_blank">
     <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
   </a>
   <img width="12" />
   <a href="https://expressjs.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+  </a>
+  <img width="12" />
+  <a href="https://nestjs.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="nestjs logo"  />
   </a>
   <img width="12" />
   <a href="https://aws.amazon.com/" target="_blank">
@@ -78,6 +86,10 @@ div align="center">
   <img width="12" />
   <a href="https://www.postgresql.org/docs/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  </a>
+  <img width="12" />
+  <a href="https://redis.io/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo"  />
   </a>
   <img width="12" />
   <a href="https://www.docker.com/" target="_blank">
